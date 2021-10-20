@@ -46,6 +46,7 @@ const AuthProvider = ({ children }) => {
   //   handle sign up using email and password
   const signUp = async (email, password, username) => {
     await createUserWithEmailAndPassword(auth, email, password);
+    
     // update profile
     await updateProfile(auth.currentUser, {
       displayName: username,
