@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "image": "./Image/service1.jpg",
+    "subtitle": "For the better you ",
+    "title": "General health care",
+    "description": "Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes."
+  },
+  {
+    "id": "2",
+    "image": "./Image/service2.jpg",
+    "subtitle": "For your child whitest teeths",
+    "title": "Dental services",
+    "description": "Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures."
+  },
+  {
+    "id": "3",
+    "image": "./Image/service3.jpg",
+    "subtitle": "View the inner you",
+    "title": "Screening",
+    "description": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital. "
+  },
+  {
+    "id": "4",
+    "image": "./Image/service4.jpg",
+    "subtitle": "When accidents happen",
+    "title": "Orthopedics",
+    "description": "Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services."
+  },
+  {
+    "id": "5",
+    "image": "./Image/service5.jpg",
+    "subtitle": "Find out more about your condition ",
+    "title": "Laboratory",
+    "description": "Credibly innovate granular internal or “organic” sources whereas high standards in web-readiness. Energistically scale future-proof core competecies."
+  },
+  {
+    "id": "6",
+    "image": "./Image/service6.jpg",
+    "subtitle": "Children medical care",
+    "title": "Pediatrics",
+    "description": "Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architecures."
+  }
+]

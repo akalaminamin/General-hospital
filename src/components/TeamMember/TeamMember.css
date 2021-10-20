@@ -1,0 +1,14 @@
+.team-content{
+    background: #0176D5;
+    color: #fff;
+}
+.new-hr {
+    background: rgb(218, 218, 218) !important;
+    width: 60px;
+    height: 3px;
+}
+
+p.desc {
+    font-size: 14px;
+    line-height: 25px;
+}

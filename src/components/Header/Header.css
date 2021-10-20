@@ -1,0 +1,23 @@
+.page-header{
+    background: url("../../Image/bgn-general-hospital-06.jpg") no-repeat center/cover;
+    height: 40vh;
+    margin-top: 120px;
+    color: #fff;
+    padding: 25px 0px;
+}
+
+.page-header h5 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+}
+.page-header h1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 69px;
+}
+.page-header p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+}

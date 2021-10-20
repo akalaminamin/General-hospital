@@ -1,0 +1,6 @@
+.team{
+    background: url("../../Image/bg-doktorka.jpg") no-repeat center / cover;
+}
+.team-member {
+    margin-top: -100px;
+}

@@ -1,0 +1,13 @@
+.footer{
+    background: #0176D5;
+}
+hr.footer-hr {
+    width: 100%;
+    height: 1px;
+    background: #ffffffbd;
+    margin-top: 25px;
+}
+.number{
+    color: rgb(3, 197, 3);
+    font-weight: 900;
+}

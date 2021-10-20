@@ -1,0 +1,63 @@
+.banner {
+  background: url("../../Image/bgn-general-hospital-01.jpg") no-repeat
+    center center/cover;
+  width: 98vw;
+  height: 95vh;
+  z-index: -1;
+}
+
+.title{
+  font-size: 70px;
+  line-height: 81px;
+  font-weight: 800;
+  letter-spacing: .8px;
+  color: #0176d5;
+}
+.span{
+  color: black;
+  font-weight: 300;
+}
+
+.hr {
+  background: #005eaa;
+  width: 70px;
+  height: 3px !important;
+  margin-bottom: 20px;
+}
+
+p.para {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 38px;
+}
+
+button.custom-btn.banner-more-btn, 
+button.custom-btn.banner-hospital-btn {
+  font-size: 15px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-right: 30px;
+  transition: all ease .3s;
+}
+button.custom-btn.banner-more-btn:hover{
+  background: #0176d5;
+}
+button.custom-btn.banner-hospital-btn {
+  background: #ADC624;
+  margin-right: 0px;
+}
+button.custom-btn.banner-hospital-btn:hover{
+  background: #96ac1e;
+}
+
+@media (max-width: 576px) { 
+  .banner {
+    padding-top: 100px;
+  }
+  .title{
+      font-size: 40px;
+      line-height: 50px;
+
+  }
+}
