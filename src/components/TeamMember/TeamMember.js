@@ -18,18 +18,21 @@ const TeamMember = ({ singleMember }) => {
           <p className="desc">{description}</p>
           <div className="icon">
             <span className="p-1 mx-1">
-              <a href="https://www.facebook.com/AK.AlAmin01" className="text-light">
-              <FaFacebookF />
+              <a
+                href="https://www.facebook.com/AK.AlAmin01"
+                className="text-light"
+              >
+                <FaFacebookF />
               </a>
             </span>
             <span className="p-1 mx-1">
-            <a href="https://twitter.com/" className="text-light">
-              <FaTwitter />
+              <a href="https://twitter.com/" className="text-light">
+                <FaTwitter />
               </a>
             </span>
             <span className="p-1 mx-1">
-            <a href="https://www.linkedin.com/signup" className="text-light">
-              <FaLinkedin />
+              <a href="https://www.linkedin.com/signup" className="text-light">
+                <FaLinkedin />
               </a>
             </span>
           </div>

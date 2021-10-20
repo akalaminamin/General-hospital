@@ -1,8 +1,8 @@
 import React from "react";
-import {Form,Container, Button} from "react-bootstrap"
+import { Form, Container, Button } from "react-bootstrap";
 const ContactForm = () => {
   return (
-    <Container  className="ps-0">
+    <Container className="ps-0">
       <Form>
         <input
           className="form-input"
