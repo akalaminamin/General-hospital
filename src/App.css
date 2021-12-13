@@ -8,3 +8,8 @@
     font-weight: 800;
     letter-spacing: 0.3px;
 }
+.contact-bg {
+    background: rgb(229 229 229);
+    padding: 15px;
+    border-radius: 5px;
+}

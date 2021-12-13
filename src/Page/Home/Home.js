@@ -6,13 +6,13 @@ import Services from "../../components/Services/Services";
 import Team from "../../components/Team/Team";
 const Home = () => {
   return (
-    <div>
+    <>
       <Banner></Banner>
       <Services></Services>
       <Team></Team>
       <ContactForm></ContactForm>
       <Footer></Footer>
-    </div>
+    </>
   );
 };
 

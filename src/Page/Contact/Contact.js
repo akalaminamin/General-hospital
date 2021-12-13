@@ -17,20 +17,6 @@ const Contact = () => {
         </p>
       </Header>
       <Container className="py-5">
-        <div className="services-header">
-          <p className="services-subtitle">Contact us anytime</p>
-          <h2 className="title">
-            <span className="span">Send us</span>
-            <br />
-            your comments
-          </h2>
-          <hr className="hr" />
-          <p className="para">
-            Quickly aggregate B2B users and worldwide potentialities.
-            Progressively plagiarize <br /> resource-leveling e-commerce through
-            resource-leveling core competencies.
-          </p>
-        </div>
         <ContactForm></ContactForm>
       </Container>
       <Footer></Footer>
